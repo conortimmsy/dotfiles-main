@@ -1,0 +1,8 @@
+2025/11/13-14:29:46.359 539 Reusing MANIFEST /home/timmsy/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/13-14:29:46.360 539 Recovering log #55
+2025/11/13-14:29:46.400 539 Reusing old log /home/timmsy/.config/obsidian/IndexedDB/app_obsidian.md_0.indexeddb.leveldb/000055.log 
+2025/11/13-14:29:46.400 539 Delete type=2 #54
+2025/11/13-14:29:46.400 539 Delete type=2 #56
+2025/11/14-10:41:58.210 53a Level-0 table #60: started
+2025/11/14-10:41:58.249 53a Level-0 table #60: 1175877 bytes OK
+2025/11/14-10:41:58.252 53a Delete type=0 #55
