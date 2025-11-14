@@ -1,0 +1,335 @@
+[2025-08-14 14:47:45.339]: Info: Sunshine version: v2025.628.4510
+[2025-08-14 14:47:45.339]: Info: Package Publisher: LizardByte
+[2025-08-14 14:47:45.339]: Info: Publisher Website: https://app.lizardbyte.dev
+[2025-08-14 14:47:45.339]: Info: Get support: https://app.lizardbyte.dev/support
+[2025-08-14 14:47:45.361]: Error: Failed to create session: 
+[2025-08-14 14:47:45.361]: Info: Found display [wayland-1]
+[2025-08-14 14:47:45.361]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:47:45.361]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:47:45.361]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:47:45.361]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:47:45.361]: Info: Resolution: 2560x1440
+[2025-08-14 14:47:45.361]: Info: Name: DP-1
+[2025-08-14 14:47:45.361]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:47:45.361]: Info: Offset: 0x0
+[2025-08-14 14:47:45.361]: Info: Logical size: 2560x1440
+[2025-08-14 14:47:45.361]: Info: -------- Start of Wayland monitor list --------
+[2025-08-14 14:47:45.361]: Info: Monitor 0 is DP-1: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:47:45.361]: Info: --------- End of Wayland monitor list ---------
+[2025-08-14 14:47:45.409]: Info: System tray created
+[2025-08-14 14:47:45.517]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-08-14 14:47:45.517]: Info: Trying encoder [nvenc]
+[2025-08-14 14:47:45.517]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:47:45.517]: Info: Found display [wayland-1]
+[2025-08-14 14:47:45.518]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:47:45.518]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:47:45.518]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:47:45.518]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:47:45.518]: Info: Resolution: 2560x1440
+[2025-08-14 14:47:45.518]: Info: Name: DP-1
+[2025-08-14 14:47:45.518]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:47:45.518]: Info: Offset: 0x0
+[2025-08-14 14:47:45.518]: Info: Logical size: 2560x1440
+[2025-08-14 14:47:45.518]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:47:45.518]: Info: Creating encoder [h264_nvenc]
+[2025-08-14 14:47:45.518]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:47:45.518]: Info: Color depth: 8-bit
+[2025-08-14 14:47:45.518]: Info: Color range: JPEG
+[2025-08-14 14:47:45.622]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:47:45.626]: Warning: [h264_nvenc @ 0x55ef81033900] Multiple reference frames are not supported by the device
+[2025-08-14 14:47:45.626]: Error: [h264_nvenc @ 0x55ef81033900] Provided device doesn't support required NVENC features
+[2025-08-14 14:47:45.926]: Error: Could not open codec [h264_nvenc]: Function not implemented
+[2025-08-14 14:47:45.927]: Info: Creating encoder [h264_nvenc]
+[2025-08-14 14:47:45.927]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:47:45.927]: Info: Color depth: 8-bit
+[2025-08-14 14:47:45.927]: Info: Color range: JPEG
+[2025-08-14 14:47:46.007]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:47:46.266]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:47:46.266]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:47:46.266]: Info: Color depth: 8-bit
+[2025-08-14 14:47:46.266]: Info: Color range: JPEG
+[2025-08-14 14:47:46.267]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:47:46.271]: Warning: [hevc_nvenc @ 0x55ef81033900] Multiple reference frames are not supported by the device
+[2025-08-14 14:47:46.271]: Error: [hevc_nvenc @ 0x55ef81033900] Provided device doesn't support required NVENC features
+[2025-08-14 14:47:46.522]: Error: Could not open codec [hevc_nvenc]: Function not implemented
+[2025-08-14 14:47:46.524]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:47:46.524]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:47:46.524]: Info: Color depth: 8-bit
+[2025-08-14 14:47:46.524]: Info: Color range: JPEG
+[2025-08-14 14:47:46.527]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:47:46.786]: Info: Creating encoder [av1_nvenc]
+[2025-08-14 14:47:46.786]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:47:46.786]: Info: Color depth: 8-bit
+[2025-08-14 14:47:46.786]: Info: Color range: JPEG
+[2025-08-14 14:47:46.787]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:47:46.790]: Warning: [av1_nvenc @ 0x55ef81033900] Codec not supported
+[2025-08-14 14:47:46.790]: Error: [av1_nvenc @ 0x55ef81033900] Provided device doesn't support required NVENC features
+[2025-08-14 14:47:47.041]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-14 14:47:47.042]: Info: Creating encoder [av1_nvenc]
+[2025-08-14 14:47:47.042]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:47:47.042]: Info: Color depth: 8-bit
+[2025-08-14 14:47:47.042]: Info: Color range: JPEG
+[2025-08-14 14:47:47.045]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:47:47.047]: Warning: [av1_nvenc @ 0x55ef81033900] Codec not supported
+[2025-08-14 14:47:47.048]: Error: [av1_nvenc @ 0x55ef81033900] Provided device doesn't support required NVENC features
+[2025-08-14 14:47:47.298]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-14 14:47:47.299]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:47:47.299]: Info: Found display [wayland-1]
+[2025-08-14 14:47:47.300]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:47:47.300]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:47:47.300]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:47:47.300]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:47:47.300]: Info: Resolution: 2560x1440
+[2025-08-14 14:47:47.300]: Info: Name: DP-1
+[2025-08-14 14:47:47.300]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:47:47.300]: Info: Offset: 0x0
+[2025-08-14 14:47:47.300]: Info: Logical size: 2560x1440
+[2025-08-14 14:47:47.300]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:47:47.300]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:47:47.300]: Info: Color coding: SDR (Rec. 709)
+[2025-08-14 14:47:47.300]: Info: Color depth: 10-bit
+[2025-08-14 14:47:47.300]: Info: Color range: JPEG
+[2025-08-14 14:47:47.305]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:47:47.564]: Info: 
+[2025-08-14 14:47:47.564]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-08-14 14:47:47.564]: Info: 
+[2025-08-14 14:47:47.564]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-08-14 14:47:47.564]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-08-14 14:47:47.568]: Error: Failed to create client: Daemon not running
+[2025-08-14 14:47:47.570]: Info: Configuration UI available at [https://localhost:47990]
+[2025-08-14 14:51:50.017]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-08-14 14:51:50.017]: Info: Trying encoder [nvenc]
+[2025-08-14 14:51:50.017]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:51:50.017]: Info: Found display [wayland-1]
+[2025-08-14 14:51:50.018]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:51:50.018]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:51:50.018]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:51:50.018]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:51:50.018]: Info: Resolution: 2560x1440
+[2025-08-14 14:51:50.018]: Info: Name: DP-1
+[2025-08-14 14:51:50.018]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:51:50.018]: Info: Offset: 0x0
+[2025-08-14 14:51:50.018]: Info: Logical size: 2560x1440
+[2025-08-14 14:51:50.018]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:51:50.018]: Info: Creating encoder [h264_nvenc]
+[2025-08-14 14:51:50.018]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:51:50.018]: Info: Color depth: 8-bit
+[2025-08-14 14:51:50.018]: Info: Color range: JPEG
+[2025-08-14 14:51:50.054]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:51:50.060]: Warning: [h264_nvenc @ 0x7f139c3fcd80] Multiple reference frames are not supported by the device
+[2025-08-14 14:51:50.060]: Error: [h264_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:51:50.311]: Error: Could not open codec [h264_nvenc]: Function not implemented
+[2025-08-14 14:51:50.312]: Info: Creating encoder [h264_nvenc]
+[2025-08-14 14:51:50.312]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:51:50.312]: Info: Color depth: 8-bit
+[2025-08-14 14:51:50.312]: Info: Color range: JPEG
+[2025-08-14 14:51:50.315]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:51:50.576]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:51:50.576]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:51:50.576]: Info: Color depth: 8-bit
+[2025-08-14 14:51:50.576]: Info: Color range: JPEG
+[2025-08-14 14:51:50.578]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:51:50.581]: Warning: [hevc_nvenc @ 0x7f139c3fcd80] Multiple reference frames are not supported by the device
+[2025-08-14 14:51:50.581]: Error: [hevc_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:51:50.832]: Error: Could not open codec [hevc_nvenc]: Function not implemented
+[2025-08-14 14:51:50.832]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:51:50.832]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:51:50.832]: Info: Color depth: 8-bit
+[2025-08-14 14:51:50.832]: Info: Color range: JPEG
+[2025-08-14 14:51:50.834]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:51:51.093]: Info: Creating encoder [av1_nvenc]
+[2025-08-14 14:51:51.093]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:51:51.093]: Info: Color depth: 8-bit
+[2025-08-14 14:51:51.093]: Info: Color range: JPEG
+[2025-08-14 14:51:51.095]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:51:51.097]: Warning: [av1_nvenc @ 0x7f139c3fcd80] Codec not supported
+[2025-08-14 14:51:51.098]: Error: [av1_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:51:51.348]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-14 14:51:51.349]: Info: Creating encoder [av1_nvenc]
+[2025-08-14 14:51:51.349]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:51:51.349]: Info: Color depth: 8-bit
+[2025-08-14 14:51:51.349]: Info: Color range: JPEG
+[2025-08-14 14:51:51.353]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:51:51.356]: Warning: [av1_nvenc @ 0x7f139c3fcd80] Codec not supported
+[2025-08-14 14:51:51.356]: Error: [av1_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:51:51.607]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-14 14:51:51.608]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:51:51.608]: Info: Found display [wayland-1]
+[2025-08-14 14:51:51.609]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:51:51.609]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:51:51.609]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:51:51.609]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:51:51.609]: Info: Resolution: 2560x1440
+[2025-08-14 14:51:51.609]: Info: Name: DP-1
+[2025-08-14 14:51:51.609]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:51:51.609]: Info: Offset: 0x0
+[2025-08-14 14:51:51.609]: Info: Logical size: 2560x1440
+[2025-08-14 14:51:51.609]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:51:51.609]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:51:51.609]: Info: Color coding: SDR (Rec. 709)
+[2025-08-14 14:51:51.609]: Info: Color depth: 10-bit
+[2025-08-14 14:51:51.609]: Info: Color range: JPEG
+[2025-08-14 14:51:51.613]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:51:51.871]: Info: 
+[2025-08-14 14:51:51.871]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-08-14 14:51:51.877]: Info: 
+[2025-08-14 14:51:51.878]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-08-14 14:51:51.878]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-08-14 14:51:51.878]: Info: Spawning [setsid steam steam://open/bigpicture] in ["/usr/bin"]
+[2025-08-14 14:51:51.887]: Info: Executing [Desktop]
+[2025-08-14 14:51:52.068]: Info: New streaming session started [active sessions: 1]
+[2025-08-14 14:51:52.103]: Info: CLIENT CONNECTED
+[2025-08-14 14:51:52.175]: Info: Found display [wayland-1]
+[2025-08-14 14:51:52.253]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:51:52.253]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:51:52.253]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:51:52.253]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:51:52.253]: Info: Resolution: 2560x1440
+[2025-08-14 14:51:52.253]: Info: Name: DP-1
+[2025-08-14 14:51:52.253]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:51:52.253]: Info: Offset: 0x0
+[2025-08-14 14:51:52.253]: Info: Logical size: 2560x1440
+[2025-08-14 14:51:52.253]: Info: -------- Start of Wayland monitor list --------
+[2025-08-14 14:51:52.254]: Info: Monitor 0 is DP-1: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:51:52.254]: Info: --------- End of Wayland monitor list ---------
+[2025-08-14 14:51:52.254]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:51:52.254]: Info: Found display [wayland-1]
+[2025-08-14 14:51:52.254]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:51:52.254]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:51:52.254]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:51:52.254]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:51:52.254]: Info: Resolution: 2560x1440
+[2025-08-14 14:51:52.254]: Info: Name: DP-1
+[2025-08-14 14:51:52.254]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:51:52.254]: Info: Offset: 0x0
+[2025-08-14 14:51:52.254]: Info: Logical size: 2560x1440
+[2025-08-14 14:51:52.254]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:51:52.254]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:51:52.254]: Info: Color coding: SDR (Rec. 709)
+[2025-08-14 14:51:52.254]: Info: Color depth: 8-bit
+[2025-08-14 14:51:52.255]: Info: Color range: MPEG
+[2025-08-14 14:51:52.265]: Info: Streaming bitrate is 7308000
+[2025-08-14 14:51:52.285]: Info: Minimum frame time set to 16.6667ms, based on client-requested target framerate 60.
+[2025-08-14 14:51:52.559]: Info: Setting default sink to: [sink-sunshine-stereo]
+[2025-08-14 14:51:52.561]: Info: Found default monitor by name: sink-sunshine-stereo.monitor
+[2025-08-14 14:51:52.599]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-08-14 14:52:00.595]: Info: Gamepad 0 will be DualShock 5 controller (auto-selected by client-reported type)
+[2025-08-14 14:55:13.418]: Info: CLIENT DISCONNECTED
+[2025-08-14 14:55:13.420]: Info: Setting default sink to: [alsa_output.pci-0000_09_00.1.hdmi-stereo]
+[2025-08-14 14:55:41.241]: Info: // Testing for available encoders, this may generate errors. You can safely ignore those errors. //
+[2025-08-14 14:55:41.242]: Info: Trying encoder [nvenc]
+[2025-08-14 14:55:41.242]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:55:41.242]: Info: Found display [wayland-1]
+[2025-08-14 14:55:41.242]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:55:41.242]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:55:41.242]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:55:41.242]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:55:41.242]: Info: Resolution: 2560x1440
+[2025-08-14 14:55:41.242]: Info: Name: DP-1
+[2025-08-14 14:55:41.242]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:55:41.242]: Info: Offset: 0x0
+[2025-08-14 14:55:41.242]: Info: Logical size: 2560x1440
+[2025-08-14 14:55:41.242]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:55:41.242]: Info: Creating encoder [h264_nvenc]
+[2025-08-14 14:55:41.242]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:55:41.242]: Info: Color depth: 8-bit
+[2025-08-14 14:55:41.242]: Info: Color range: JPEG
+[2025-08-14 14:55:41.244]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:55:41.253]: Warning: [h264_nvenc @ 0x7f139c3fcd80] Multiple reference frames are not supported by the device
+[2025-08-14 14:55:41.253]: Error: [h264_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:55:41.505]: Error: Could not open codec [h264_nvenc]: Function not implemented
+[2025-08-14 14:55:41.506]: Info: Creating encoder [h264_nvenc]
+[2025-08-14 14:55:41.506]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:55:41.506]: Info: Color depth: 8-bit
+[2025-08-14 14:55:41.506]: Info: Color range: JPEG
+[2025-08-14 14:55:41.509]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:55:41.769]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:55:41.769]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:55:41.769]: Info: Color depth: 8-bit
+[2025-08-14 14:55:41.769]: Info: Color range: JPEG
+[2025-08-14 14:55:41.770]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:55:41.773]: Warning: [hevc_nvenc @ 0x7f139c3fcd80] Multiple reference frames are not supported by the device
+[2025-08-14 14:55:41.773]: Error: [hevc_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:55:42.023]: Error: Could not open codec [hevc_nvenc]: Function not implemented
+[2025-08-14 14:55:42.024]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:55:42.025]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:55:42.025]: Info: Color depth: 8-bit
+[2025-08-14 14:55:42.025]: Info: Color range: JPEG
+[2025-08-14 14:55:42.026]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:55:42.292]: Info: Creating encoder [av1_nvenc]
+[2025-08-14 14:55:42.292]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:55:42.292]: Info: Color depth: 8-bit
+[2025-08-14 14:55:42.292]: Info: Color range: JPEG
+[2025-08-14 14:55:42.295]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:55:42.299]: Warning: [av1_nvenc @ 0x7f139c3fcd80] Codec not supported
+[2025-08-14 14:55:42.299]: Error: [av1_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:55:42.550]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-14 14:55:42.551]: Info: Creating encoder [av1_nvenc]
+[2025-08-14 14:55:42.551]: Info: Color coding: SDR (Rec. 601)
+[2025-08-14 14:55:42.551]: Info: Color depth: 8-bit
+[2025-08-14 14:55:42.551]: Info: Color range: JPEG
+[2025-08-14 14:55:42.555]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:55:42.561]: Warning: [av1_nvenc @ 0x7f139c3fcd80] Codec not supported
+[2025-08-14 14:55:42.561]: Error: [av1_nvenc @ 0x7f139c3fcd80] Provided device doesn't support required NVENC features
+[2025-08-14 14:55:42.811]: Error: Could not open codec [av1_nvenc]: Function not implemented
+[2025-08-14 14:55:42.812]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:55:42.812]: Info: Found display [wayland-1]
+[2025-08-14 14:55:42.812]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:55:42.812]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:55:42.812]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:55:42.812]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:55:42.812]: Info: Resolution: 2560x1440
+[2025-08-14 14:55:42.812]: Info: Name: DP-1
+[2025-08-14 14:55:42.812]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:55:42.812]: Info: Offset: 0x0
+[2025-08-14 14:55:42.812]: Info: Logical size: 2560x1440
+[2025-08-14 14:55:42.812]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:55:42.812]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:55:42.812]: Info: Color coding: SDR (Rec. 709)
+[2025-08-14 14:55:42.812]: Info: Color depth: 10-bit
+[2025-08-14 14:55:42.812]: Info: Color range: JPEG
+[2025-08-14 14:55:42.814]: Info: Streaming bitrate is 1000000
+[2025-08-14 14:55:43.076]: Info: 
+[2025-08-14 14:55:43.076]: Info: // Ignore any errors mentioned above, they are not relevant. //
+[2025-08-14 14:55:43.076]: Info: 
+[2025-08-14 14:55:43.076]: Info: Found H.264 encoder: h264_nvenc [nvenc]
+[2025-08-14 14:55:43.076]: Info: Found HEVC encoder: hevc_nvenc [nvenc]
+[2025-08-14 14:55:43.138]: Info: New streaming session started [active sessions: 1]
+[2025-08-14 14:55:43.211]: Info: CLIENT CONNECTED
+[2025-08-14 14:55:43.259]: Info: Found display [wayland-1]
+[2025-08-14 14:55:43.260]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:55:43.260]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:55:43.260]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:55:43.260]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:55:43.260]: Info: Resolution: 2560x1440
+[2025-08-14 14:55:43.260]: Info: Name: DP-1
+[2025-08-14 14:55:43.260]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:55:43.260]: Info: Offset: 0x0
+[2025-08-14 14:55:43.260]: Info: Logical size: 2560x1440
+[2025-08-14 14:55:43.260]: Info: -------- Start of Wayland monitor list --------
+[2025-08-14 14:55:43.260]: Info: Monitor 0 is DP-1: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:55:43.260]: Info: --------- End of Wayland monitor list ---------
+[2025-08-14 14:55:43.260]: Info: Screencasting with Wayland's protocol
+[2025-08-14 14:55:43.260]: Info: Found display [wayland-1]
+[2025-08-14 14:55:43.261]: Info: Found interface: zxdg_output_manager_v1(9) version 3
+[2025-08-14 14:55:43.261]: Info: Found interface: zwlr_screencopy_manager_v1(41) version 3
+[2025-08-14 14:55:43.261]: Info: Found interface: zwp_linux_dmabuf_v1(58) version 5
+[2025-08-14 14:55:43.261]: Info: Found interface: wl_output(59) version 4
+[2025-08-14 14:55:43.261]: Info: Resolution: 2560x1440
+[2025-08-14 14:55:43.261]: Info: Name: DP-1
+[2025-08-14 14:55:43.261]: Info: Found monitor: BNQ BenQ PD2500Q P5M0361501Q (DP-1)
+[2025-08-14 14:55:43.261]: Info: Offset: 0x0
+[2025-08-14 14:55:43.261]: Info: Logical size: 2560x1440
+[2025-08-14 14:55:43.261]: Info: Selected monitor [BNQ BenQ PD2500Q P5M0361501Q (DP-1)] for streaming
+[2025-08-14 14:55:43.261]: Info: Creating encoder [hevc_nvenc]
+[2025-08-14 14:55:43.261]: Info: Color coding: SDR (Rec. 709)
+[2025-08-14 14:55:43.261]: Info: Color depth: 8-bit
+[2025-08-14 14:55:43.261]: Info: Color range: MPEG
+[2025-08-14 14:55:43.273]: Info: Streaming bitrate is 7308000
+[2025-08-14 14:55:43.295]: Info: Minimum frame time set to 16.6667ms, based on client-requested target framerate 60.
+[2025-08-14 14:55:43.625]: Info: Setting default sink to: [sink-sunshine-stereo]
+[2025-08-14 14:55:43.628]: Info: Found default monitor by name: sink-sunshine-stereo.monitor
+[2025-08-14 14:55:43.673]: Info: Opus initialized: 48 kHz, 2 channels, 96 kbps (total), LOWDELAY
+[2025-08-14 14:55:44.505]: Info: Gamepad 0 will be DualShock 5 controller (auto-selected by client-reported type)
+[2025-08-14 14:56:46.488]: Info: CLIENT DISCONNECTED
+[2025-08-14 14:56:46.493]: Info: Setting default sink to: [alsa_output.pci-0000_09_00.1.hdmi-stereo]
