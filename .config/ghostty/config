@@ -1,0 +1,12 @@
+# Link to docs https://ghostty.org/docs/config/reference
+font-family = RobotoMono Nerd Font
+font-size = 18
+confirm-close-surface = false
+theme = Gruvbox Material
+macos-icon = retro
+quit-after-last-window-closed = true
+background-opacity = 0.90
+clipboard-write = allow
+clipboard-read = allow
+title = ghostty
+shell-integration-features = ssh-terminfo,ssh-env
