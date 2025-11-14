@@ -7,7 +7,7 @@
 
 alias ls='ls -la --color=auto'
 alias grep='grep --color=auto'
-alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+alias config='/usr/bin/git --git-dir=$HOME/.cfg --work-tree=$HOME'
 
 export PATH=$PATH:$HOME/bin
 export XDG_CONFIG="$HOME/.config"
