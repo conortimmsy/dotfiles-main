@@ -98,7 +98,7 @@
     "format": " {}",
     "exec": "~/.config/waybar/bluetooth-display.sh",
     "interval": 10,
-    "on-click": "blueman-manager",
+    "on-click": "ghostty -e bluetoothctl",
     "return-type": "plain",
     "tooltip": false,
     "max-length": 25,
