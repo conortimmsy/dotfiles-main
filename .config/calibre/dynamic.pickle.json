@@ -1,4 +1,5 @@
 {
+  "auto add path choose": "/home/timmsy/Downloads",
   "catalogs_to_be_synced": {
     "__class__": "set",
     "__value__": []

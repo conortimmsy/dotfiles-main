@@ -46,7 +46,10 @@
   ],
   "jobs_search_history": [],
   "lrf_viewer_search_history": [],
-  "main_search_history": [],
+  "main_search_history": [
+    "trigger",
+    "cath"
+  ],
   "main_window_geometry": null,
   "match_tags_type": "any",
   "new_version_notification": true,

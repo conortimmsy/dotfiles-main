@@ -1,0 +1,108 @@
+{
+  "geometry-of-main_window_geometry": {
+    "frame_geometry": {
+      "height": 1370,
+      "width": 1256,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 1370,
+      "width": 1256,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": 1370,
+      "width": 1256,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAABOcAAAVZAAAAAAAAAAAAAATnAAAFWQAAAAACAAAACgAAAAAAAAAAAAAABOcAAAVZ"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1440,
+        "width": 2560,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BNQ",
+      "model": "BenQ PD2500Q",
+      "name": "DP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1440,
+        "width": 2560
+      },
+      "virtual_geometry": {
+        "height": 1440,
+        "width": 2560,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAEAAAAFWvwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAAAAAFWgAAAIUA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAQAAAAAAAAVaAAAAkwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAAB6AP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOUA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEQD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM4A////AAAD4gAABVoAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-search-settings": {
+    "angina": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "pectoralis minor": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "pectorialis minor": {
+      "case_sensitive": false,
+      "mode": "normal"
+    },
+    "scalene": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 26,
+    "controls_help_shown_count": 2,
+    "current_color_scheme": "system",
+    "keyboard_shortcuts": {},
+    "paged_wheel_scrolls_by_screen": false,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {},
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "The Case For Christ"
+        ],
+        "key": "/home/timmsy/calibre/The Case For Christ/Strobel, Lee - The Case For Christ (284)/Strobel, Lee - The Case For Christ - The Case For Christ.epub",
+        "pathtoebook": "/home/timmsy/calibre/The Case For Christ/Strobel, Lee - The Case For Christ (284)/Strobel, Lee - The Case For Christ - The Case For Christ.epub",
+        "timestamp": "2025-11-17T23:57:11.703Z",
+        "title": "Strobel, Lee - The Case For Christ"
+      },
+      {
+        "authors": [
+          "Clair Davies"
+        ],
+        "key": "/home/timmsy/calibre/Clair Davies/The Trigger Point Therapy Workbook (271)/The Trigger Point Therapy Workbook - Clair Davies.epub",
+        "pathtoebook": "/home/timmsy/calibre/Clair Davies/The Trigger Point Therapy Workbook (271)/The Trigger Point Therapy Workbook - Clair Davies.epub",
+        "timestamp": "2025-11-16T11:52:28.095Z",
+        "title": "The Trigger Point Therapy Workbook"
+      }
+    ],
+    "tts_bar_position": "float"
+  },
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}
