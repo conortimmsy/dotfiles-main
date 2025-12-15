@@ -15,7 +15,7 @@ export XDG_CONFIG="$HOME/.config"
 # Notify if any uncommited changes to .config repo
 status=$(config status --short)
 if [[ -n $status ]]; then
-  echo "${#status[@]} uncommited changes to .config repo"
+  echo -e "\e[1;31m${#status[@]} uncommited change/s to .config repo\e[0m"
 fi
 
 # Execute oh-my-posh with given theme
