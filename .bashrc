@@ -12,4 +12,11 @@ alias config='/usr/bin/git --git-dir=$HOME/.cfg --work-tree=$HOME'
 export PATH=$PATH:$HOME/bin:$HOME/scripts
 export XDG_CONFIG="$HOME/.config"
 
+# Notify if any uncommited changes to .config repo
+status=$(config status --short)
+if [[ -n $status ]]; then
+  echo "${#status[@]} uncommited changes to .config repo"
+fi
+
+# Execute oh-my-posh with given theme
 eval "$(oh-my-posh init bash --config $XDG_CONFIG/omp/gruvbox-material.omp.json)"
